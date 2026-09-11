@@ -7,7 +7,7 @@ authors:
     given-names: Bishwas
 version: 1.0.0
 date-released: 2026-09-10
-repository-code: "https://github.com/bishwas9/landslide-history-farwestern-nepal"
+repository-code: "https://github.com/bishwas9/landslides_farwestern_nepal"
 abstract: "Python workflow for recurrence modelling, temporal and spatial randomization, rainfall-history analysis, expanding-window prediction, and manuscript figure generation."
 keywords:
   - landslide
