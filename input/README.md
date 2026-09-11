@@ -14,4 +14,4 @@ The validator accepts common column aliases, but the canonical names below are r
 
 Accepted slope-unit ID aliases include `su_id`, `SU_ID`, `suid`, `slope_unit_id`, `slopeunit_id`, and `cat`. Generic `id`/`OBJECTID` columns are not silently interpreted as slope-unit IDs because they are often feature identifiers. Accepted year aliases include `year`, `event_year`, `Year`, and `YEAR`.
 
-Do not place manually edited result tables in `input/`. Put prior results in `reference_outputs/` so they can be compared without entering the analysis chain.
+
